@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KlientKurc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KlientKurc_jar</output-path>
+    <root id="archive" name="KlientKurc.jar">
+      <element id="module-output" name="KlientKurc" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/AbsoluteLayout.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
